@@ -24,7 +24,7 @@ jobs:
       - name: java version test
         run: java -version
       - name: python version test
-        run: pyton -v
+        run: python -v
       - name: maven version
         run: mvn --version
       - name: git version
